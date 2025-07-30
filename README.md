@@ -112,7 +112,7 @@ run_ndwi_analysis(
 - `lake_polygons.geojson`: Vector polygons of detected lakes  
 - `lake_area_histogram.png`: Histogram of lake areas (in km²)
 
-> 💡 To limit the histogram to lakes below a certain size (e.g., <2 km²), edit the `plot_histogram()` function in `ndwi_main.py`.
+> To limit the histogram to lakes below a certain size (e.g., <2 km²), edit the `plot_histogram()` function in `ndwi_main.py`.
 
 ---
 
@@ -139,4 +139,4 @@ If using this framework in a publication, please cite:
 ## 👤 Maintainer
 
 **Emily Glen**  
-📧 e.glen@lancaster.ac.uk  
+e.glen@lancaster.ac.uk  
